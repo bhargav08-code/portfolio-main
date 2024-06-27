@@ -7,7 +7,7 @@ const experts = [
     id: 1,
     name: "MongoDB",
 
-    image: "/assets/img2.png",
+    image:"/mb.svg",
   },
   {
     id: 2,

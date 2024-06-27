@@ -7,42 +7,42 @@ const experts = [
     id: 1,
     name: "MongoDB",
 
-    image:"/mb.svg",
+    image:"/img2.svg",
   },
   {
     id: 2,
     name: "Express.Js",
-    image: "/express.png",
+    image: "/img3.svg",
   },
   {
     id: 3,
     name: "React.Js",
 
-    image: "/re.svg",
+    image: "/img4.svg",
   },
   {
     id: 4,
     name: "Node.Js",
 
-    image: "/node-js.svg",
+    image: "/img5.svg",
   },
   {
     id: 5,
     name: "MySQL",
 
-    image: "/assets/img6.png",
+    image: "/img6.svg",
   },
   {
     id: 6,
     name: "Tailwind",
 
-    image: "/tail.svg",
+    image: "/img7.svg",
   },
     {
     id: 7,
     name: "FireBase",
 
-    image: "/firebase.png",
+    image: "/firebase.svg",
   },
 ];
 

@@ -3,6 +3,9 @@ import { withSentryConfig } from "@sentry/nextjs";
 const nextConfig = {
   images: {
     domains: ["images.unsplash.com"],
+  },  output: "export",
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 

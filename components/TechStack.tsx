@@ -12,19 +12,19 @@ const experts = [
   {
     id: 2,
     name: "Express.Js",
-    image: "/assets/img3.png",
+    image: "/express.png",
   },
   {
     id: 3,
     name: "React.Js",
 
-    image: "/assets/img4.png",
+    image: "/re.svg",
   },
   {
     id: 4,
     name: "Node.Js",
 
-    image: "/assets/img5.png",
+    image: "/node-js.svg",
   },
   {
     id: 5,
@@ -36,7 +36,13 @@ const experts = [
     id: 6,
     name: "Tailwind",
 
-    image: "/assets/img7.png",
+    image: "/tail.svg",
+  },
+    {
+    id: 7,
+    name: "FireBase",
+
+    image: "/firebase.png",
   },
 ];
 

@@ -111,10 +111,10 @@ export const projects = [
     link: "https://twitter-clone-mern-fjrz.onrender.com",
   },
    {
-    id: 5,
+    id: 6,
     title: "RealEstate ",
     des: "Developed a fully functional MERN Stack project to sell the real estate properties. ",
-    img: "/assets/xclone.png",
+    img: "/assets/estate.png",
     iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg"],
     link: "https://mern-state-7ism.onrender.com/",
   },

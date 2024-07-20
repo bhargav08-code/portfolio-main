@@ -110,6 +110,14 @@ export const projects = [
     iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg"],
     link: "https://twitter-clone-mern-fjrz.onrender.com",
   },
+   {
+    id: 5,
+    title: "RealEstate ",
+    des: "Developed a fully functional MERN Stack project to sell the real estate properties. ",
+    img: "/assets/xclone.png",
+    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg"],
+    link: "https://mern-state-7ism.onrender.com/",
+  },
 ];
 
 export const workExperience = [

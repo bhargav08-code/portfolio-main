@@ -118,6 +118,14 @@ export const projects = [
     iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg"],
     link: "https://mern-state-7ism.onrender.com/",
   },
+   {
+    id: 6,
+    title: "Advanced Auth ",
+    des: "MERN Project with auth features include Email verification, password recovery . ",
+    img: "/assets/auth.png",
+    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg"],
+    link: "https://mern-state-7ism.onrender.com/",
+  },
 ];
 
 export const workExperience = [

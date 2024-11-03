@@ -48,7 +48,7 @@ const experts = [
     id: 7,
     name: "GraphQL",
 
-    image: "/firebase.svg",
+    image: "/graphql-icon.svg",
   },
 ];
 

@@ -44,6 +44,12 @@ const experts = [
 
     image: "/firebase.svg",
   },
+    {
+    id: 7,
+    name: "GraphQL",
+
+    image: "/firebase.svg",
+  },
 ];
 
 function TechStack() {

@@ -124,7 +124,15 @@ export const projects = [
     des: "MERN Project with auth features include Email verification, password recovery . ",
     img: "/assets/auth.png",
     iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg"],
-    link: "https://mern-state-7ism.onrender.com/",
+    link: "",
+  },
+    {
+    id: 6,
+    title: "Money Map",
+    des: "MERN Project with GraphQL, for tracking expenses  . ",
+    img: "/assets/exp-gql.png",
+    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg"],
+    link: "https://money-map-ixuj.onrender.com/login",
   },
 ];
 

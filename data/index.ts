@@ -131,7 +131,7 @@ export const projects = [
     title: "Money Map",
     des: "MERN Project with GraphQL, for tracking expenses  . ",
     img: "/assets/exp-gql.png",
-    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg"],
+    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg","graphql-icon.svg"],
     link: "https://money-map-ixuj.onrender.com/login",
   },
 ];

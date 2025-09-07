@@ -50,6 +50,29 @@ const experts = [
 
     image: "/graphql-icon.svg",
   },
+      {
+    id: 7,
+    name: "Next.Js",
+
+    image: "/Next.js.svg",
+  },    {
+    id: 7,
+    name: "AppWrite",
+
+    image: "/Appwrite.svg",
+  },
+      {
+    id: 7,
+    name: "ReactNaive",
+
+    image: "/graphql-icon.svg",
+  },
+   {
+    id: 7,
+    name: "Android",
+
+    image: "/Android.svg",
+  },
 ];
 
 function TechStack() {

@@ -45,30 +45,30 @@ const experts = [
     image: "/firebase.svg",
   },
     {
-    id: 7,
+    id: 8,
     name: "GraphQL",
 
     image: "/graphql-icon.svg",
   },
       {
-    id: 7,
+    id: 9,
     name: "Next.Js",
 
     image: "/Next.js.svg",
   },    {
-    id: 7,
+    id: 10,
     name: "AppWrite",
 
     image: "/Appwrite.svg",
   },
       {
-    id: 7,
+    id: 11,
     name: "ReactNaive",
 
-    image: "/graphql-icon.svg",
+    image: "/native.svg",
   },
    {
-    id: 7,
+    id: 12,
     name: "Android",
 
     image: "/Android.svg",

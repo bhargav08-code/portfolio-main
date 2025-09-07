@@ -138,9 +138,9 @@ export const projects = [
     id: 6,
     title: "StoreIt",
     des: "StoreIt is a file management web app. Features include secure file storage, user authentication, real-time file management, interactive data visualization for storage usage. ",
-    img: "/assets/exp-gql.png",
-    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg","graphql-icon.svg"],
-    link: "https://money-map-ixuj.onrender.com/login",
+    img: "/assets/storeIt.png",
+    iconLists: ["/Next.js.svg", "/Appwrite.svg", "/re.svg", "/node-js.svg","/tail.svg"],
+    link: "https://store-it-six-chi.vercel.app/sign-in",
   },
 ];
 

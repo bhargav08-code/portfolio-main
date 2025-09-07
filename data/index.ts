@@ -134,6 +134,14 @@ export const projects = [
     iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg","graphql-icon.svg"],
     link: "https://money-map-ixuj.onrender.com/login",
   },
+   {
+    id: 6,
+    title: "StoreIt",
+    des: "StoreIt is a file management web app. Features include secure file storage, user authentication, real-time file management, interactive data visualization for storage usage. ",
+    img: "/assets/exp-gql.png",
+    iconLists: ["/mb.svg", "/express.png", "/re.svg", "/node-js.svg","/tail.svg","graphql-icon.svg"],
+    link: "https://money-map-ixuj.onrender.com/login",
+  },
 ];
 
 export const workExperience = [
